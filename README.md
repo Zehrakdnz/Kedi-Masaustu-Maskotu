@@ -4,7 +4,7 @@ Masaüstünde belirli görevleri yerine getiren kedi maskotu
 Farede sola basıldığında menü açılır. 
 
 Menüde bulunanlar;
-Chatgprt'yi aç
+Chatgpt'yi aç
 Not defteri aç
 Ekran görüntüsü al
 Menüyü kapat
